@@ -1,11 +1,11 @@
 # Ansible-complete-course
 
 **Day 1: Introduction to Ansible and Getting Started**
-Overview of Ansible: <br />
-What is Ansible, its advantages, and why use it?<br />
-Comparison with Shell and Python scripting for automation.<br />
-Installing Ansible on different platforms.<br />
-IDE(VS Code) and Plugin configuration.<br />
+  <br />Overview of Ansible: <br />
+  What is Ansible, its advantages, and why use it?<br />
+  Comparison with Shell and Python scripting for automation.<br />
+  Installing Ansible on different platforms.<br />
+  IDE(VS Code) and Plugin configuration.<br />
 
 **Day 2: Ansible Adhoc Commands**
 Passwordless Authentication
