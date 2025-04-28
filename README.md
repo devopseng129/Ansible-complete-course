@@ -8,56 +8,56 @@
   &emsp; * IDE(VS Code) and Plugin configuration.<br />
 
 **Day 2: Ansible Adhoc Commands**
-Passwordless Authentication
-Ansible Inventory
-Understanding Adhoc commands and their usage.
-Examples of common Adhoc commands for system management tasks.
-Exploring the power of Adhoc commands for quick tasks.
+&emsp; * Passwordless Authentication
+&emsp; * Ansible Inventory
+&emsp; * Understanding Adhoc commands and their usage.
+&emsp; * Examples of common Adhoc commands for system management tasks.
+&emsp; * Exploring the power of Adhoc commands for quick tasks.
 
 **Day 3: Writing Your First Ansible Playbook**
-Understanding YAML basics and Ansible playbook structure.
-Introduction to Ansible structure: Playbook, Play, Modules, Tasks and Collections.
-Hands-on: Writing a playbook to install apache2 and deploy a static app on aws.
+&emsp; * Understanding YAML basics and Ansible playbook structure.
+&emsp; * Introduction to Ansible structure: Playbook, Play, Modules, Tasks and Collections.
+&emsp; * Hands-on: Writing a playbook to install apache2 and deploy a static app on aws.
 
 **Day 4: Understanding Ansible Roles**
-What are Ansible roles and why use them?
-Exploring the folder structure of Ansible roles.
-Comparing roles with playbooks and understanding their advantages.
-Hands-on: Creating a simple role and using it in a playbook.
+&emsp; * What are Ansible roles and why use them?
+&emsp; * Exploring the folder structure of Ansible roles.
+&emsp; * Comparing roles with playbooks and understanding their advantages.
+&emsp; * Hands-on: Creating a simple role and using it in a playbook.
 
 **Day 5: Deep Dive into Ansible Roles with Demo**
-Ansible Galaxy - Exploring pre-built Ansible roles.
-Ansible Galaxy - Importing and Installing roles.
-DEMO: Advanced usage of Ansible roles with a practical example project.
-Best practices for organizing roles and playbook structure.
+&emsp; * Ansible Galaxy - Exploring pre-built Ansible roles.
+&emsp; * Ansible Galaxy - Importing and Installing roles.
+&emsp; * DEMO: Advanced usage of Ansible roles with a practical example project.
+&emsp; * Best practices for organizing roles and playbook structure.
 
 **Day 6: Ansible Variables and Precedence**
-Create AWS Resources using Ansible (Collections)
-Understanding Ansible variables and their scope with an example
-Jinja2 Templating - Utilizing advanced templating features
-Variable precedence: How Ansible resolves conflicts between different variable sources.
-Hands-on: Using variables in playbooks and roles.
+&emsp; * Create AWS Resources using Ansible (Collections)
+&emsp; * Understanding Ansible variables and their scope with an example
+&emsp; * Jinja2 Templating - Utilizing advanced templating features
+&emsp; * Variable precedence: How Ansible resolves conflicts between different variable sources.
+&emsp; * Hands-on: Using variables in playbooks and roles.
 
 **Day 7: Ansible Conditionals and Loops**
-Using conditionals in Ansible to control task execution.
-Implementing loops for repetitive tasks.
-Practical examples of conditionals and loops in playbooks.
+&emsp; * Using conditionals in Ansible to control task execution.
+&emsp; * Implementing loops for repetitive tasks.
+&emsp; * Practical examples of conditionals and loops in playbooks.
 
 **Day 8: Error Handling in Ansible**
-Dealing with errors and failures in Ansible playbooks.
-Error handling techniques and best practices.
-Demonstrating error handling in practical scenarios.
+&emsp; * Dealing with errors and failures in Ansible playbooks.
+&emsp; * Error handling techniques and best practices.
+&emsp; * Demonstrating error handling in practical scenarios.
 
 **Day 9: Ansible Vault for Security**
-Understanding Ansible Vault and its role in securing sensitive data.
-Encrypting and decrypting files using Ansible Vault.
-Best practices for managing secrets and sensitive data in Ansible.
+&emsp; * Understanding Ansible Vault and its role in securing sensitive data.
+&emsp; * Encrypting and decrypting files using Ansible Vault.
+&emsp; * Best practices for managing secrets and sensitive data in Ansible.
 
 **Day 10: Understanding Ansible Tower**
-Comparision with Ansible command line and adhoc commands
-RBAC and Security with Ansible Tower
+&emsp; * Comparision with Ansible command line and adhoc commands
+&emsp; * RBAC and Security with Ansible Tower
 
 **Day 11: Advanced Ansible Project**
-Terraform + Ansible Project
+&emsp; * Terraform + Ansible Project
 
 **Day 12: Ansible Interview Questions**
