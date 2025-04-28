@@ -1,7 +1,7 @@
 # Ansible-complete-course
 
-**Day 1: Introduction to Ansible and Getting Started**<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  &emsp; - Overview of Ansible: <br />
+**Day 1: Introduction to Ansible and Getting Started**<br />
+  &emsp; * Overview of Ansible: <br />
   &emsp; What is Ansible, its advantages, and why use it?<br />
   ensp Comparison with Shell and Python scripting for automation.<br />
   ensp Installing Ansible on different platforms.<br />
