@@ -2,7 +2,7 @@
 
 **Day 1: Introduction to Ansible and Getting Started**
   &ensp; <br />Overview of Ansible: <br />
-  ensp What is Ansible, its advantages, and why use it?<br />
+  &ensp; What is Ansible, its advantages, and why use it?<br />
   ensp Comparison with Shell and Python scripting for automation.<br />
   ensp Installing Ansible on different platforms.<br />
   ensp IDE(VS Code) and Plugin configuration.<br />
