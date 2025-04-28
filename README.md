@@ -2,10 +2,10 @@
 
 **Day 1: Introduction to Ansible and Getting Started**<br />
   &emsp; * Overview of Ansible: <br />
-  &emsp; What is Ansible, its advantages, and why use it?<br />
-  ensp Comparison with Shell and Python scripting for automation.<br />
-  ensp Installing Ansible on different platforms.<br />
-  ensp IDE(VS Code) and Plugin configuration.<br />
+  &emsp; * What is Ansible, its advantages, and why use it?<br />
+  &emsp; * Comparison with Shell and Python scripting for automation.<br />
+  &emsp; * Installing Ansible on different platforms.<br />
+  &emsp; * IDE(VS Code) and Plugin configuration.<br />
 
 **Day 2: Ansible Adhoc Commands**
 Passwordless Authentication
